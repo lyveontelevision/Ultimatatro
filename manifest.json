@@ -1,0 +1,10 @@
+{
+  "id": "ultatro",
+  "name": "Ultimatatro",
+  "author": ["The creator", "Codex"],
+  "description": "Balatro poker runs powered by Overwatch 2 hero abilities loaded from the player's own install.",
+  "prefix": "ultatro",
+  "main_file": "main.lua",
+  "version": "0.9.0",
+  "dependencies": ["Steamodded (>=1.0.0~BETA-1814a)"]
+}
